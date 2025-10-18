@@ -12,6 +12,7 @@ To build an interactive web app that allows users to input a district and date.
 To demonstrate how data science and AI can help in local-level forecasting and planning.
 
 Tools and Technologies Used
+
 Tool / Library	Purpose
 Python : Programming language used
 Streamlit	:  To create the web-based user interface
