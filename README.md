@@ -4,6 +4,7 @@ Introduction
 Weather prediction plays a vital role in daily life — from agriculture to transportation and disaster management.
 This project, “Kerala Smart Weather Predictor”, uses machine learning to predict the weather of any district in Kerala based on the date selected by the user.
 It’s a data-driven system built using Python and Streamlit for real-time prediction and visualization.
+https://kerala-weather-prediction-model-webapp.streamlit.app/
 
  Objective of the Project
 
